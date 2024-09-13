@@ -1,1 +1,1 @@
-# scorpio-b-MyExercise
+# MyExercise
